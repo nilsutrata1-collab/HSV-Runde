@@ -8,6 +8,6 @@
     "scheme": "hsvrunde",
     "ios": { "supportsTablet": false, "bundleIdentifier": "de.hsvrunde.app" },
     "android": { "package": "de.hsvrunde.app" },
-    "web": { "bundler": "metro", "output": "static" }
+    "web": { "bundler": "metro", "output": "single" }
   }
 }

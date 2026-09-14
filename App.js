@@ -13,7 +13,7 @@ import {
 import { StatusBar } from "expo-status-bar";
 import { NavigationContainer, DefaultTheme } from "@react-navigation/native";
 import { createBottomTabNavigator } from "@react-navigation/bottom-tabs";
-import { supabase } from "./src/supabase";
+import { supabase } from "./supabase";
 
 const blue = "#0057B8";
 const navy = "#061B35";

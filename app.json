@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "HSV-Runde",
+    "slug": "hsv-runde",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "scheme": "hsvrunde",
+    "ios": { "supportsTablet": false, "bundleIdentifier": "de.hsvrunde.app" },
+    "android": { "package": "de.hsvrunde.app" },
+    "web": { "bundler": "metro", "output": "static" }
+  }
+}
